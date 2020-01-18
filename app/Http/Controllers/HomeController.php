@@ -129,6 +129,8 @@ class HomeController extends Controller
         $user= User::find($id);
         $user->name = $request->input('name');
         $user->email = $request->input('email');
+         $user->password =  Hash::make($request['password']);
+        $user->auth =  $request->input('auth');
         if($request->hasFile('profile_image'))
         {
             $post->profile_image = $filetoNameToStor;
