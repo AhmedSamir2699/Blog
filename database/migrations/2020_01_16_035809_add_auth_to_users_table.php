@@ -14,7 +14,7 @@ class AddAuthToUsersTable extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table) {
-            $table->string('auth');
+            $table->string('auth')->default('admin');
         });
     }
 
