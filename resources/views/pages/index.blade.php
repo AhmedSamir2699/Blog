@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="jumbotron text-center">
-        <h1>Welcom to laravel</h1>
+        <h1>Welcom to Blog</h1>
  <ul class="navbar-nav ml-auto">
                 <!-- Authentication Links -->
                 @guest
