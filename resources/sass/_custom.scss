@@ -1,0 +1,57 @@
+body{
+
+    background: #fff !important
+}
+
+
+/*Start post-box*/
+
+.post-box
+{
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 0 10px #ddd;
+    position: relative;
+    text-align: left;
+    margin-bottom:20px;
+    
+}
+
+.post-box .post-title
+{
+    text-align: center;
+    margin-top: 0;
+}
+
+
+
+.post-box .post-date{
+        display: block;
+        padding: 0 0 5px;
+        color: #888;
+        font-size: 14px;
+    }
+
+.post-box .post-content{
+        line-height: 1.8;
+        color: #666;
+
+    }
+.post-box .post-author{
+        background-color: #607D88;
+        color: #fff;
+       padding: 6px 10px;
+       border-radius: 4px;
+    }
+.post-box .post-category{
+        background-color: #E91E63;
+        color: #fff;
+       padding: 6px 10px;
+       border-radius: 4px;
+    }
+
+/*End post-box*/
+form.textarea {
+    height: auto;
+}
+
