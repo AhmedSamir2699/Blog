@@ -1,5 +1,7 @@
 # blog project by laravel 
 
+## !!!!!!!!(thar are a Screen Shots for Site uploded)!!!!!!!
+
 ## you can create,edit,delete post
 
 ## thare are screenshot to the app 
