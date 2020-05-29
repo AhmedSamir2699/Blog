@@ -1,6 +1,6 @@
 # blog project by laravel 
 
-## !!!!!!!!(thar are a Screen Shots for Site uploded)!!!!!!!
+## !!!!!!!!(there are a Screens about Site uploded)!!!!!!!
 
 ## you can create,edit,delete post
 
